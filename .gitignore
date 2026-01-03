@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Terraform providers
+**/.terraform/*
+
+# AWS CLI zip
+awscliv2.zip
+
+# Logs
+*.log
+
+# OS
+.DS_Store
