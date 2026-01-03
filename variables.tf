@@ -1,0 +1,10 @@
+variable "ami_id" {}
+variable "instance_type" {}
+variable "subnet_id" {}
+variable "security_group_ids" {}
+variable "volume_size" {}
+variable "alb_subnets" {}
+variable "alb_sg" {}
+variable "vpc_id" {}
+variable "environment" {}
+variable "owner" {}
